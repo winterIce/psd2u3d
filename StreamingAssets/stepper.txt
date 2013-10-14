@@ -1,0 +1,14 @@
+.background{ background-position: 0 0; width: 200px; height: 200px; } 
+.shangyiye1{ background-position: 0 -210px; width: 24px; height: 23px; } 
+.shangyiye2{ background-position: 0 -243px; width: 24px; height: 23px; } 
+.shangyiye3{ background-position: 0 -276px; width: 24px; height: 23px; } 
+.shouye1{ background-position: 0 -309px; width: 24px; height: 23px; } 
+.shouye2{ background-position: 0 -342px; width: 24px; height: 23px; } 
+.shouye3{ background-position: 0 -375px; width: 24px; height: 23px; } 
+.shurukuangdiban{ background-position: 0 -408px; width: 59px; height: 24px; } 
+.weiye1{ background-position: 0 -442px; width: 24px; height: 23px; } 
+.weiye2{ background-position: 0 -475px; width: 24px; height: 23px; } 
+.weiye3{ background-position: 0 -508px; width: 24px; height: 23px; } 
+.xiayiye1{ background-position: 0 -541px; width: 24px; height: 23px; } 
+.xiayiye2{ background-position: 0 -574px; width: 24px; height: 23px; } 
+.xiayiye3{ background-position: 0 -607px; width: 24px; height: 23px; } 

@@ -1,0 +1,63 @@
+<gameObjects>
+  <scenes name="Assets/Scene/abc.unity">
+    <gameObjects name="Cube" asset="Cube.prefab">
+      <transform>
+        <position>
+          <x>2.345657</x>
+          <y>1.356325</y>
+          <z>-1.938553</z>
+        </position>
+        <rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </rotation>
+        <scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </scale>
+      </transform>
+    </gameObjects>
+    <gameObjects name="Sphere" asset="Sphere.prefab">
+      <transform>
+        <position>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </position>
+        <rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </rotation>
+        <scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </scale>
+      </transform>
+    </gameObjects>
+  </scenes>
+  <scenes name="Assets/main.unity">
+    <gameObjects name="main" asset="main.prefab">
+      <transform>
+        <position>
+          <x>-28.5</x>
+          <y>1</y>
+          <z>42.5</z>
+        </position>
+        <rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </rotation>
+        <scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </scale>
+      </transform>
+    </gameObjects>
+  </scenes>
+</gameObjects>
